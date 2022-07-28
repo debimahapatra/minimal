@@ -4,4 +4,4 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/debimahapatra/nodejs-weather-app)
 
-<center><img src="images/weather-app.png"/></center>
+<center><img src="assets/img/weather-app.png"/></center>
